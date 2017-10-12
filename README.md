@@ -9,5 +9,11 @@ Name | Website | What we do with Vue.js
 ------------ | ------- | -------
 [Example](http://example.com) | http://example.com | E-commerce Site
 [GNEX ltd.](https://globalnet-ex.com) | https://globalnet-ex.com | [Push7](https://push7.jp/) (SaaS web push service) Web Site and Document on Nuxt.js, [CartEngine](https://cartengine.jp/) (E-Commerce support system) SPA Dashboard on Vue.
+
+## Awesome who-use-**-in-japan
+
+- Angular: https://github.com/ng-japan/who-use-angular-in-japan
+- Node.js: https://github.com/nodejsjp/who-use-nodejs-in-japan
+
 ## Inspired by
 https://github.com/nodejsjp/who-use-nodejs-in-japan
