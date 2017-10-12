@@ -9,5 +9,10 @@ Name | Website | What we do with Vue.js
 ------------ | ------- | -------
 [Example](http://example.com) | http://example.com | E-commerce Site
 
+## Awesome who-use-**-in-japan
+
+- Angular: https://github.com/ng-japan/who-use-angular-in-japan
+- Node.js: https://github.com/nodejsjp/who-use-nodejs-in-japan
+
 ## Inspired by
 https://github.com/nodejsjp/who-use-nodejs-in-japan
