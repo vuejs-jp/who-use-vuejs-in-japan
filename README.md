@@ -8,6 +8,6 @@ The list of companies who use Vue.js in Japan
 Name | Website | What we do with Vue.js
 ------------ | ------- | -------
 [Example](http://example.com) | http://example.com | E-commerce Site
-
+[GNEX ltd.](https://globalnet-ex.com) | https://globalnet-ex.com | [Push7](https://push7.jp/) (SaaS web push service) Web Site and Document on Nuxt.js, [CartEngine](https://cartengine.jp/) (E-Commerce support system) SPA Dashboard on Vue.
 ## Inspired by
 https://github.com/nodejsjp/who-use-nodejs-in-japan
