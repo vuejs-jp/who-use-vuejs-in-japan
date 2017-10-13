@@ -12,6 +12,7 @@ Name | Website | What we do with Vue.js
 [Minkore](https://minkore.funa.in.net) | https://minkore.funa.in.net | Migrating to Vue.js + Firebase SPA 
 [Nagisa-inc](https://nagisa-inc.jp) | https://nagisa-inc.jp | [Manga ZERO](https://manga-zero.coroco3.com) (SPA + SSR), [UPTOON](https://uptoon.js) (SPA), Digital comic services.
 [B-eee Technology](http://www.b-eee.com/) | http://www.b-eee.com/ | WebDB, CRM(SaaS, bigdata, realtime, dashboards and graphs), and workflows
+[DMM.com Labo](https://dmm-corp.com/company/labo/) | https://cmawards.dmm.com/ | Posting and voting CM videos with serverless SPA.
 
 ## Awesome who-use-**-in-japan
 
