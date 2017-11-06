@@ -15,6 +15,7 @@ Name | Website | What we do with Vue.js
 [FURYU](https://www.furyu.jp) | https://www.furyu.jp | [PICTLINK](https://sp.pictlink.com) SPA on Vue.
 [DMM.com Labo](https://dmm-corp.com/company/labo/) | https://cmawards.dmm.com/ | Posting and voting CM videos with serverless SPA.
 [CyberAgent](https://adtech.cyberagent.io) | https://adtech.cyberagent.io | Many product are running with migrating to Vue.js
+[SCOUTER](https://corp.scouter.co.jp) | https://corp.scouter.co.jp | [SCOUTER](https://service.scouter.co.jp) (HR, Recruitment service) Web Site for all stakeholders
 
 ## Awesome who-use-**-in-japan
 
