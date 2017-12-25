@@ -17,6 +17,7 @@ Name | Website | What we do with Vue.js
 [CyberAgent](https://adtech.cyberagent.io) | https://adtech.cyberagent.io | Many product are running with migrating to Vue.js
 [SCOUTER](https://corp.scouter.co.jp) | https://corp.scouter.co.jp | [SCOUTER](https://service.scouter.co.jp) (HR, Recruitment service) Web Site for all stakeholders
 [Repro](https://repro.io) | https://repro.io | Most of the UI of the application is built with Vue.js + Vuex!
+[TeamUp](https://www.teamup.jp) | https://www.teamup.jp | TeamUp (feedback system) is built with Vue.js and Vuex.
 
 ## Awesome who-use-**-in-japan
 
