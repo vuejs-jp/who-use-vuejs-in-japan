@@ -19,6 +19,7 @@ Name | Website | What we do with Vue.js
 [Repro](https://repro.io) | https://repro.io | Most of the UI of the application is built with Vue.js + Vuex!
 [TeamUp](https://www.teamup.jp) | https://www.teamup.jp | TeamUp (feedback system) is built with Vue.js and Vuex.
 [Umeebe Inc.](https://umee.be/) | https://umee.be/ | [TsuribaCamera](https://tsuriba.camera/) (Community Service for Anglers) with Nuxt.js
+[Blabo Inc.](https://bla.bo/) | https://bla.bo/ | Co-Creation Platform
 
 ## Awesome who-use-**-in-japan
 
