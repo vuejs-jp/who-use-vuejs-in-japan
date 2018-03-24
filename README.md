@@ -20,7 +20,8 @@ Name | Website | What we do with Vue.js
 [TeamUp](https://www.teamup.jp) | https://www.teamup.jp | TeamUp (feedback system) is built with Vue.js and Vuex.
 [Umeebe Inc.](https://umee.be/) | https://umee.be/ | [TsuribaCamera](https://tsuriba.camera/) (Community Service for Anglers) with Nuxt.js
 [Blabo Inc.](https://bla.bo/) | https://bla.bo/ | Co-Creation Platform
-[DeNA](http://dena.com/) | http://dena.com/ | At DeNA, we use Vue.js for product development in various business such as automotive, life science and entertainment. 
+[DeNA](http://dena.com/) | http://dena.com/ | At DeNA, we use Vue.js for product development in various business such as automotive, life science and entertainment.
+[oRo](https://www.oro.com) | https://www.oro.com | Making various interactive websites / applications for each customer on demand.
 
 ## Awesome who-use-**-in-japan
 
