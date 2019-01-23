@@ -24,6 +24,7 @@ Name | Website | What we do with Vue.js
 [oRo](https://www.oro.com) | https://www.oro.com | Making various interactive websites / applications for each customer on demand.
 [Tokyo Otaku Mode Inc.](https://corporate.otakumode.com/) | https://corporate.otakumode.com/ | [Tokyo Otaku Mode](https://otakumode.com/) is built with Vue.js and Vuex.
 [来栖川電算](https://www.kurusugawa.jp/) | https://www.kurusugawa.jp | Built [AnnoFab](https://annofab.com/), a Web app for mass-producing quality annotations for machine learning. Also contributing to Vue eco-system specially [vue-i18n](https://github.com/kazupon/vue-i18n).
+[M&T Technology Inc.](https://www.m-t.com) | https://www.m-t.com | Customer and administrator backends currently in development, as well as all current and future software are made with Vue.js and/or Laravel.
 
 ## Awesome who-use-**-in-japan
 
