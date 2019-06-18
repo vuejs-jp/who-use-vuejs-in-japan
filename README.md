@@ -27,6 +27,7 @@ Name | Website | What we do with Vue.js
 [M&T Technology Inc.](https://www.m-t.com) | https://www.m-t.com | Customer and administrator backends currently in development, as well as all current and future software are made with Vue.js and/or Laravel.
 [SAKURA Internet Inc.](https://www.sakura.ad.jp/) | https://www.sakura.ad.jp/ | Building dashboards in our services such as [sakura.io](https://sakura.io/), [Koukaryoku Computing](https://www.sakura.ad.jp/koukaryoku/) and using for other various scenes.
 [Viibar inc.](https://viibar.com/) | https://viibar.com/ | Building [Vync](https://viibar.com/vync) with Vue.js.
+[ALIS](https://alismedia.jp/) | https://alis.to/ | A completely new social media concept revealing and providing access to reliable, articles, news, and people
 
 ## Awesome who-use-**-in-japan
 
