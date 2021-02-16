@@ -31,6 +31,7 @@ Name | Website | What we do with Vue.js
 [Safie](https://safie.link/) | https://safie.link/ | Building corporate site, dashboards with Vue.js & Nuxt.js.
 [TechBowl](https://techbowl.co.jp) | https://techbowl.co.jp | Our Service, "[TechTrain](https://techbowl.co.jp/techtrain)" is built with Nuxt.js. "TechTrain" is a community and service for engineers and developers.
 [HiCustomer](https://hicustomer.jp/) | https://hicustomer.jp/ | [HiCustomer](https://hicustomer.jp/) (Customer Success Management tool for SaaS) is built with Vue.js and Vuex.
+[Widsley](https://widsley.com/) | https://widsley.com/ | We build Sales oriented CRM and CTI using Vue.js and Nuxt.js on front and Laravel on backend. Our main product [ComDesk](https://comdesk.com/)
 
 ## Awesome who-use-**-in-japan
 
